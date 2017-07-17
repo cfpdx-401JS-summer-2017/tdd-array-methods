@@ -1,0 +1,26 @@
+{
+  "name": "tdd-array-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test",
+    "start": "npm test -- -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomson42/tdd-array-methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomson42/tdd-array-methods/issues"
+  },
+  "homepage": "https://github.com/Thomson42/tdd-array-methods#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
