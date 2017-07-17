@@ -1,0 +1,23 @@
+{
+  "name": "tdd-array-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests",
+    "start": "npm test -- -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinytort/tdd-array-methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinytort/tdd-array-methods/issues"
+  },
+  "homepage": "https://github.com/tinytort/tdd-array-methods#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
